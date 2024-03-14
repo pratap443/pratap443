@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m #munipratap Sriram 
-👀 I’m interested in development of Full stack enterprise applications.
-🌱 I’m currently learning New concepts in J2EE, System design,Cryptos, NFTs,paymentGatway, SSO.
-💞️ I’m looking to collaborate on solving problems of day-to-day life and on advancing the life standard.
-📫 How to reach me ...??? You can, on my mail
+👋 Hi, I’m #munipratap Sriram  
+
+👀 I’m interested in development of Full stack enterprise applications. 
+
+🌱 I’m currently learning New concepts in J2EE, System design,Cryptos, NFTs,paymentGatway, SSO. 
+
+💞️ I’m looking to collaborate on solving problems of day-to-day life and on advancing the life standard. 
+
+📫 How to reach me ...??? You can, on my mail 
+
+
+
