@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👀 I’m interested in development of Full stack enterprise applications. 
 
-🌱 I’m currently learning New concepts in J2EE, System design,Cryptos, NFTs,paymentGatway, SSO. 
+🌱 I’m currently learning New concepts in J2EE, Angular, System design,paymentGatway, SSO,Cryptos,NFTs. 
 
 💞️ I’m looking to collaborate on solving problems of day-to-day life and on advancing the life standard. 
 
